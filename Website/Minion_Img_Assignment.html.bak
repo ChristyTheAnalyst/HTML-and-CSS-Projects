@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Image Assignment</title>
+		<meta charset="utf-8">
+	</head>
+	<body>
+		<main>
+			<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHpiZGthejZ6enpodHRuYjhmN2Q0bmhwbG85cHRtdmQ3dTd1bnIyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VRhsYYBw8AE36/giphy.gif">
+		</main>
+	</body>
+	<footer>	</footer>
+</html>
