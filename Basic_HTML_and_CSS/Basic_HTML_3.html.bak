@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Linking to External Files</title>
+	</head>
+	<body>
+		<style>
+		p {color: red;}
+		</style>
+		<p>This is red paragraph</p>
+	</body>
+	<footer></footer>
+</html>
