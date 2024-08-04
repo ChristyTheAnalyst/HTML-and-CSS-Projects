@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Class Attribute</title>
+	</head>
+	<body>
+		<style>
+			.font_1{
+			background-color: black;
+			color: yellow;
+			font-size: large;
+			}
+			.font_2{
+			background-color: orange;
+			color: white;
+			font-size: medium;
+			}
+		</style>
+		<p>This is red paragraph</p>
+		
+		<div style="color: blue">
+			<p>This para is inside blue div</p>
+			<h2>Heading 2 inside div</h2>
+		</div>
+		
+		<h2 class="font_1">Heading2</h2>
+		<h3 class="font_2">Heading3</h3>
+		<h4 class="font_3">Heading4</h4>
+	</body>
+	<footer></footer>
+</html>
