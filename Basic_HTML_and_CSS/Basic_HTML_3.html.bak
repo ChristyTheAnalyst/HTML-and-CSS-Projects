@@ -8,6 +8,11 @@
 		p {color: red;}
 		</style>
 		<p>This is red paragraph</p>
+		
+		<div style="color: blue">
+			<p>This para is inside blue div</p>
+			<h2>Heading 2 inside div</h2>
+		</div>
 	</body>
 	<footer></footer>
 </html>
