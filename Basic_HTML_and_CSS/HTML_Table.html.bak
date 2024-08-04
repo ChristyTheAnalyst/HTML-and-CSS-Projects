@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>HTML Table</title>
+	</head>
+	<body>
+		
+		<p>Styled font.</p>
+		<table style="width:100%">
+			<tr>
+				<th>Name</th>
+				<th>Phone</th>
+				<th>Email</th>
+				<th>Notes</th>
+			</tr>
+			<tr>
+				<td>Jon snow</td>
+				<td>45781246654</td>
+				<td>winter@thenorth.com</td>
+				<td>King of the north</td>
+			</tr>
+		</table>
+		
+	</body>
+	<footer></footer>
+</html>
